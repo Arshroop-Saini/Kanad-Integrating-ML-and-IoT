@@ -4,6 +4,8 @@
 ## THIS IS THE MAIN BRANCH
 
 ## To See the IoT implementation GO [HERE](https://github.com/Arshroop-Saini/Kanad-Integrating-ML-and-IoT/tree/Kanad-IoT-Arduino)
+## #DEMO VIDEO [HERE](https://drive.google.com/file/d/11sZ0AaidCzT8bRxbUw7mHXAx-6EqGgXs/view?usp=sharing)
+## PRESENTAION [HERE](https://drive.google.com/file/d/1zEF_CKxiiNRinhBxtulFSq9ESYX2pJZT/view?usp=sharing)
 
 ## MOTIVATION 💪
 - Farming is one of the major sectors that influences a country’s economic growth. 
